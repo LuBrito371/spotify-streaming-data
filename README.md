@@ -3,7 +3,7 @@
 **Instituição:** Universidade Federal do Agreste de Pernambuco (UFAPE) - Bacharelado em Ciência da Computação  
 **Disciplina:** Inteligência Artificial 2026.1  
 **Professor:** Prof. Dr. Luis Filipe[cite: 2]  
-**Autores:** Luana Vitória da Silva Brito e [Inserir Nome da Dupla]  
+**Autores:** Luana Vitória da Silva Brito e Yasmin da Silva Muniz
 **Vídeo de Apresentação:** [Inserir Link do YouTube/Drive Aqui][cite: 2]
 
 ---
